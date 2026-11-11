@@ -1,39 +1,30 @@
 ---
-title: "Hello, World: Who I Am and What This Blog Is About"
+title: "Hey, I'm Jeremy"
 date: 2026-11-11 12:00:00 -0500
 categories: [Personal]
-tags: [introduction, cybersecurity, learning]
-description: A quick introduction, and what I'll be writing about here.
+tags: [introduction]
+description: Who I am and what I'm going to write about here.
 pin: true
 ---
 
-Hi, I'm Jeremy Whitlock. I'm a cybersecurity student at the University of Cincinnati, and this blog is where I'll document what I'm learning, building and breaking.
+I'm a cybersecurity student at the University of Cincinnati. I started this blog to keep track of what I'm working on, and to make myself write things up instead of just moving on to the next thing.
 
-## How I got here
+## A bit of background
 
-Most of my hands-on experience so far comes from about a year as an IT Support Specialist co-op at DeBra-Kuempel. It was a crash course in how a real organization runs: managing users in Active Directory, deploying devices through Intune, troubleshooting endless hardware and software issues, and watching endpoint alerts in Cortex XDR.
+Most of what I know about real IT environments comes from my co-op at DeBra-Kuempel. I've been there about a year doing IT support: resetting accounts in Active Directory, setting up laptops through Intune, chasing down hardware problems, and checking alerts in Cortex XDR.
 
-The part that interested me most was vulnerability management. I spent time working through CVEs and the CISA Known Exploited Vulnerabilities catalog, trying to work out which systems actually needed patching first. Seeing how much of that work is manual got me thinking about how to automate it, and about how the vulnerabilities get into software in the first place.
+The work I ended up liking most was vulnerability management. I'd look at new CVEs, check them against the CISA Known Exploited Vulnerabilities list, and try to figure out which machines needed patching first. A lot of that was manual, and I started wondering how much of it I could automate. That question is a big part of why I want to work in security.
 
-## What I'm doing now
+## What I'm up to now
 
-Outside of work and classes, I have a few things going:
+I'm building an app called Reach in Flutter. The idea is to help people spend less time doomscrolling and more time actually talking to their friends. Getting it ready for the App Store and Google Play has taught me a lot, mostly about how many things can go wrong.
 
-- **Building an app.** I'm developing Reach, a Flutter app meant to help people doomscroll less and reconnect with their friends. Taking an app through design, subscriptions and the app store review process has taught me a lot about what developers actually deal with.
-- **Breaking apps (my own first).** I'm learning mobile application security using the OWASP mobile testing guide, and I'm auditing my own app to see what I got wrong.
-- **Running a home lab.** Kali Linux, Windows VMs, Nmap and a lot of trial and error.
-- **Studying for Security+.** I'd rather build things than collect certifications, but the fundamentals matter.
-- **Getting better at Python.** I'm still a beginner, and I'm working on it.
+I'm also learning mobile app security, and I'm starting with Reach. If I made security mistakes building it, I'd rather find them myself.
 
-## What you'll find here
+Other than that I'm studying for Security+, messing around in my home lab, and working on my Python, which is still pretty basic.
 
-I plan to write about:
+## What I'll post here
 
-- Security audits of real apps, starting with mine: what I found and how I fixed it
-- Tools and projects I'm building, including the parts that didn't work
-- Things I learn in my home lab and from hands-on labs and CTFs
-- Notes on vulnerability management and security automation
+Mostly write-ups of things I'm working on: testing my own app, tools I'm building (including the ones that don't work out), and stuff I figure out in my lab. I'm still learning, so if you see something I got wrong, let me know.
 
-I'm writing these as I learn, not as an expert. If something I post is wrong or could be done better, I'd genuinely like to hear about it.
-
-You can follow my projects on [GitHub](https://github.com/imWhit). Thanks for reading.
+My projects are on [GitHub](https://github.com/imWhit).

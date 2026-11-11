@@ -4,38 +4,22 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm Jeremy Whitlock, a cybersecurity student at the University of Cincinnati working toward a career in security engineering.
+I'm Jeremy. I'm a cybersecurity student at the University of Cincinnati, graduating in May 2028.
 
-I've spent about a year in enterprise IT. I've seen how organizations manage endpoints, respond to threats and keep up with vulnerabilities. Now I'm focused on the engineering side: finding security flaws in software, and building tools that make fixing them faster.
+For the past year I've worked as an IT Support Specialist co-op at DeBra-Kuempel. Day to day that meant Active Directory, Intune, Windows Server, a lot of tickets, and keeping an eye on endpoints in Cortex XDR. The part I liked most was vulnerability work. I'd go through CVEs and the CISA KEV list to figure out what actually needed patching first, and I kept thinking most of it could be automated.
 
-## Education
+That's pushed me toward the security side of building software. I'm working on an app called Reach, a Flutter app for people who want to spend less time scrolling and more time with their friends. I'm also learning mobile app security, and the first app I'm testing is my own.
 
-**B.S. Cybersecurity**, University of Cincinnati (expected May 2028)
-Dean's List, 2024–2025
+Outside of that I have a home lab with Kali and a few Windows VMs that I break and rebuild. I'm studying for Security+ and getting better at Python.
 
-Coursework: Information Security and Assurance, Computer Networking, System Administration, Database Management, Web Development, Programming
+## School
 
-## Experience
+B.S. in Cybersecurity, University of Cincinnati. Dean's List 2024–2025.
 
-**IT Support Specialist Co-op**, DeBra-Kuempel
+## Work
 
-- Supported an enterprise environment using Active Directory, Microsoft Intune and Windows Server
-- Worked with Cortex XDR for endpoint security and threat detection
-- Analyzed CVEs and the CISA Known Exploited Vulnerabilities catalog to prioritize patching
-- Explored ways to automate vulnerability remediation using existing vulnerability data
+IT Support Specialist Co-op, DeBra-Kuempel
 
-## What I'm working on
+## Get in touch
 
-- **Application security:** auditing mobile apps against the OWASP MASVS, starting with an app I built myself, and building an [open-source auditing tool](https://github.com/imWhit/ios-security-auditor)
-- **Building software:** I'm developing Reach, a Flutter app that helps people cut down on doomscrolling and reconnect with friends. Shipping a real app teaches me what developers actually deal with, and where security gets missed.
-- **Home lab:** Kali Linux, Windows VMs, Nmap and network security experiments
-- **Certification:** studying for CompTIA Security+
-
-## Interests
-
-Application and product security, cloud security, DevSecOps, security automation, and vulnerability research.
-
-## Let's connect
-
-I'm looking for security engineering and application security internships, and I'm open to relocating to New York City.
-Find me on [GitHub](https://github.com/imWhit).
+I'm looking for internships in application security and related areas, and I'd be happy to move to New York City. You can find my projects on [GitHub](https://github.com/imWhit).
