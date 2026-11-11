@@ -16,10 +16,10 @@ timezone: America/New_York
 
 title: Jeremy Whitlock # the main title
 
-tagline: iOS developer learning to break (and secure) apps # it will display as the subtitle
+tagline: Cybersecurity student · application security · building and breaking software # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Write-ups on iOS app security, mobile pentesting, and AI-assisted vulnerability discovery.
+  Jeremy Whitlock: cybersecurity student writing about application security, mobile app audits, and security automation.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

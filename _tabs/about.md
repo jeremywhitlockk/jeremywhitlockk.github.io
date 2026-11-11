@@ -4,20 +4,38 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm Jeremy. I build iOS apps, and now I'm learning how to break them, so I can build them more securely.
+Hi, I'm Jeremy Whitlock, a cybersecurity student at the University of Cincinnati working toward a career in security engineering.
 
-This blog documents that work: auditing real iOS apps (starting with my own), mobile pentesting techniques, and using LLMs to make vulnerability discovery faster and less noisy.
+I've spent about a year in enterprise IT. I've seen how organizations manage endpoints, respond to threats and keep up with vulnerabilities. Now I'm focused on the engineering side: finding security flaws in software, and building tools that make fixing them faster.
 
-## Current project
+## Education
 
-**[ios-security-auditor](https://github.com/imWhit/ios-security-auditor)**: an open-source tool that combines static analysis, Frida runtime checks and LLM-assisted triage to find security issues in iOS apps, mapped to the OWASP MASVS.
+**B.S. Cybersecurity**, University of Cincinnati (expected May 2028)
+Dean's List, 2024–2025
 
-## What I work with
+Coursework: Information Security and Assurance, Computer Networking, System Administration, Database Management, Web Development, Programming
 
-- **iOS:** Swift, SwiftUI, Xcode
-- **Security:** OWASP MASTG / MASVS, Frida, objection, MobSF, Semgrep, web application security
-- **Languages:** Swift, Python
+## Experience
 
-## Contact
+**IT Support Specialist Co-op**, DeBra-Kuempel
 
+- Supported an enterprise environment using Active Directory, Microsoft Intune and Windows Server
+- Worked with Cortex XDR for endpoint security and threat detection
+- Analyzed CVEs and the CISA Known Exploited Vulnerabilities catalog to prioritize patching
+- Explored ways to automate vulnerability remediation using existing vulnerability data
+
+## What I'm working on
+
+- **Application security:** auditing mobile apps against the OWASP MASVS, starting with an app I built myself, and building an [open-source auditing tool](https://github.com/imWhit/ios-security-auditor)
+- **Building software:** I'm developing Reach, a Flutter app that helps people cut down on doomscrolling and reconnect with friends. Shipping a real app teaches me what developers actually deal with, and where security gets missed.
+- **Home lab:** Kali Linux, Windows VMs, Nmap and network security experiments
+- **Certification:** studying for CompTIA Security+
+
+## Interests
+
+Application and product security, cloud security, DevSecOps, security automation, and vulnerability research.
+
+## Let's connect
+
+I'm looking for security engineering and application security internships, and I'm open to relocating to New York City.
 Find me on [GitHub](https://github.com/imWhit).
