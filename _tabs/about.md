@@ -22,4 +22,4 @@ IT Support Specialist Co-op, DeBra-Kuempel
 
 ## Get in touch
 
-I'm looking for internships in application security and related areas, and I'd be happy to move to New York City. You can find my projects on [GitHub](https://github.com/imWhit).
+I'm looking for internships in application security and related areas, and I'd be happy to move to New York City. You can find my projects on [GitHub](https://github.com/jeremywhitlockk).

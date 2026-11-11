@@ -27,4 +27,4 @@ Other than that I'm studying for Security+, messing around in my home lab, and w
 
 Mostly write-ups of things I'm working on: testing my own app, tools I'm building (including the ones that don't work out), and stuff I figure out in my lab. I'm still learning, so if you see something I got wrong, let me know.
 
-My projects are on [GitHub](https://github.com/imWhit).
+My projects are on [GitHub](https://github.com/jeremywhitlockk).

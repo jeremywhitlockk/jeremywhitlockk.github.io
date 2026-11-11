@@ -60,4 +60,4 @@ Tips:
 
 ## What's next
 
-I'm turning these lessons into an open-source tool, [ios-security-auditor](https://github.com/imWhit/ios-security-auditor), that catches these issues automatically and uses an LLM to filter out false positives. Follow along on GitHub.
+I'm turning these lessons into an open-source tool, [ios-security-auditor](https://github.com/jeremywhitlockk/ios-security-auditor), that catches these issues automatically and uses an LLM to filter out false positives. Follow along on GitHub.

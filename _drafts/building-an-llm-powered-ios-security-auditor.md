@@ -35,4 +35,4 @@ DRAFT for week 8. Not published until moved to _posts/ as
 
 ## Try it
 
-Code: [github.com/imWhit/ios-security-auditor](https://github.com/imWhit/ios-security-auditor)
+Code: [github.com/jeremywhitlockk/ios-security-auditor](https://github.com/jeremywhitlockk/ios-security-auditor)

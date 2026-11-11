@@ -1,4 +1,4 @@
-# imwhit.github.io
+# jeremywhitlockk.github.io
 
 Personal blog on iOS app security, mobile pentesting and AI-assisted vulnerability discovery.
 
